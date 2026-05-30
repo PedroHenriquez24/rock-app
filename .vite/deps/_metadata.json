@@ -2,8 +2,25 @@
   "hash": "82ca5196",
   "configHash": "9dd7a595",
   "lockfileHash": "4983581f",
+<<<<<<< Updated upstream
   "browserHash": "29ac27bf",
   "optimized": {
+=======
+  "browserHash": "dc87ed4d",
+  "optimized": {
+    "@supabase/supabase-js": {
+      "src": "../../node_modules/@supabase/supabase-js/dist/index.mjs",
+      "file": "@supabase_supabase-js.js",
+      "fileHash": "542941a7",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f218ff8a",
+      "needsInterop": true
+    },
+>>>>>>> Stashed changes
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
